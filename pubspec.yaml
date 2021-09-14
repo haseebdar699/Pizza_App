@@ -1,0 +1,33 @@
+name: flutter_assignment
+description: A new Flutter project.
+version: 1.0.0+1
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  animated_text_kit: ^4.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/burger.png
+    - images/Burger_Final.png
+    - images/Fries 1.png
+    - images/Hot_dog.png
+    - images/Sandwich 1.png
+    - images/Location Drop.png
+    - images/Burger1.png
+    - images/Pizza.png
+    - images/salad.png
+    - images/menu.png
+    - images/Profile.png
+    - images/Location Drop.png
